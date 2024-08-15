@@ -162,10 +162,18 @@ def register_callbacks(app):
                              df_night[tempTbatcol].mean()]
         })
         fig_barplot = px.bar(barplot_data, x='Période', y='Moyenne Temp', title='Moyenne de TempTbatcol')
-        return [dcc.Graph(figure=fig_global),
-                dcc.Graph(figure=fig_day),
-                dcc.Graph(figure=fig_night),
+        return [dcc.Graph(figure=fig_global,config= {
+                                        'scrollZoom': True  # Activer le zoom avec la molette
+                                    }),
+                dcc.Graph(figure=fig_day,config= {
+                                        'scrollZoom': True  # Activer le zoom avec la molette
+                                    }),
+                dcc.Graph(figure=fig_night,config= {
+                                        'scrollZoom': True  # Activer le zoom avec la molette
+                                    }),
                 period_subtit,
                 pie_chart_tit,
-                dcc.Graph(figure=fig_barplot),
+                dcc.Graph(figure=fig_barplot,config= {
+                                        'scrollZoom': True  # Activer le zoom avec la molette
+                                    }),
                 False, ""]

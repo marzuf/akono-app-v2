@@ -201,7 +201,7 @@ def get_db_dropdown(id) :
     return dcc.Dropdown(
                     id=id,
                     options=[
-                        {'label': 'Données horaires', 'value': dbTime_name},
+                        {'label': 'Données minutes', 'value': dbTime_name},
                         {'label': 'Données journalières P', 'value': dbDayP_name},
                         {'label': 'Données journalières I', 'value': dbDayI_name}
                     ],
@@ -695,8 +695,10 @@ def get_modal_dashboard(id_mainDiv, id_childDiv, id_closeBtn, id_graph):
         html.Div(
             id=id_childDiv,
             children=[
-                html.Button("Close", id=id_closeBtn ,n_clicks=0),
-                dcc.Graph(id=id_graph)
+                html.Button("Fermer", id=id_closeBtn ,n_clicks=0),
+                dcc.Graph(id=id_graph,config= {
+                                        'scrollZoom': True  # Activer le zoom avec la molette
+                                    })
             ],
             style={
                 "position": "fixed",
@@ -819,7 +821,8 @@ def generate_summary_row(id_suffix, column_name, minutes_with_data,
                         id=f"sparkline_{id_suffix}",
                         figure=sparkline_figure,
                         style={"width": "100%", "height": "50px"},
-                        config={"staticPlot": True, "displayModeBar": False},
+                        config={"staticPlot": True,   'scrollZoom': True ,
+                                "displayModeBar": False},
                     ),
                 ),
                 html.Div(

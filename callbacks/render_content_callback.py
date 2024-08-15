@@ -3,6 +3,9 @@ from settings import *
 from utils_fcts import *
 
 def register_callbacks(app):
+    timedata_columns = get_timedata_columns()
+    timecols2show = [x for x in timedata_columns if not showcols_settings[x] == "NA"]
+
 
     ############################################## MAIN CALLBACK RENDER_CONTENT
 
