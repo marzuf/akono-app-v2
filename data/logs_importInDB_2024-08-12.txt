@@ -1,0 +1,36 @@
+***** START LG231124.CSV
+LG231124.CSV	while reading :
+../LOG_300524/LG231124.CSV - WARNING : missing 'time' data (available : 561/1440
+../LOG_300524/LG231124.CSV - WARNING : missing 'time' data columns (VT_Mode_I11016_1,VT_E_CMD_I11082_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Phase_I11038_1,VT_UpvM_Vdc_I11041_1,VT_Aux_1_I11061_1,VT_UbaM_Vdc_I11039_1,VT_Aux_2_I11062_1,VT_IbaM_Adc_I11040_1,VT_Tp1M_C_I11045_1,DEV_VT_locEr_I11076_1)
+
+../LOG_300524/LG231124.CSV - WARNING : missing 'dayI' data columns (I7067_2,I7067_1)
+
+../LOG_300524/LG231124.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231124.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231124.CSV - SUCCESS reading 'dayI' data
+
+LG231124.CSV	insert in DB success
+***** START LG231125.CSV
+LG231125.CSV	while reading :
+../LOG_300524/LG231125.CSV - WARNING : missing 'time' data (available : 1379/1440
+../LOG_300524/LG231125.CSV - WARNING : missing 'time' data columns (VT_Mode_I11016_1,VT_E_CMD_I11082_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Phase_I11038_1,VT_UpvM_Vdc_I11041_1,VT_Aux_1_I11061_1,VT_UbaM_Vdc_I11039_1,VT_Aux_2_I11062_1,VT_IbaM_Adc_I11040_1,VT_Tp1M_C_I11045_1,DEV_VT_locEr_I11076_1)
+
+../LOG_300524/LG231125.CSV - WARNING : missing 'dayI' data columns (I7067_2,I7067_1)
+
+../LOG_300524/LG231125.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231125.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231125.CSV - SUCCESS reading 'dayI' data
+
+LG231125.CSV	insert in DB success
+***** START LG231126.CSV
+LG231126.CSV	while reading :
+../LOG_300524/LG231126.CSV - WARNING : missing 'time' data (available : 127/1440
+../LOG_300524/LG231126.CSV - WARNING : missing 'time' data columns (VT_Mode_I11016_1,VT_E_CMD_I11082_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Phase_I11038_1,VT_UpvM_Vdc_I11041_1,VT_Aux_1_I11061_1,VT_UbaM_Vdc_I11039_1,VT_Aux_2_I11062_1,VT_IbaM_Adc_I11040_1,VT_Tp1M_C_I11045_1,DEV_VT_locEr_I11076_1)
+
+../LOG_300524/LG231126.CSV - WARNING : missing 'dayI' data columns (I7067_2,I7067_1)
+
+../LOG_300524/LG231126.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231126.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231126.CSV - SUCCESS reading 'dayI' data
+
+LG231126.CSV	insert in DB success

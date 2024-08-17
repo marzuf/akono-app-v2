@@ -390,3 +390,252 @@ dcc.ConfirmDialog(
 #         ]
 #     )
 # )
+
+
+
+
+# ################################ CALLBACKS - TAB TIMEDATA - GRAPHIQUES TEMPORELS DONNEES HORAIRES
+# @app.callback(
+#     Output('time-series-graph', 'figure'),
+#     [Input('timedata-column-dropdown', 'value')]
+# )
+# def update_graph(selected_columns):
+#     if not selected_columns:
+#         return go.Figure()
+#
+#     # Lire toutes les données de la base de données
+#     df = fetch_timedata()
+#     fig = go.Figure()
+#     for i, col in enumerate(selected_columns):
+#         # Ajout de chaque variable sur un axe y différent
+#         fig.add_trace(
+#             go.Scatter(
+#                 x=df[db_timecol],
+#                 y=df[col],
+#                 mode='lines',
+#                 name=col,
+#                 yaxis=f'y{i + 1}'
+#             )
+#         )
+#     update_layout_cols(selected_columns)
+#     fig.update_layout(
+#         xaxis=dict(domain=[0.25, 0.75], showline=True, linewidth=2, linecolor='black'),
+#         yaxis=yaxis_layout,
+#         yaxis2=yaxis2_layout,
+#         yaxis3=yaxis3_layout,
+#         yaxis4=yaxis4_layout,
+#         title_text="",  ## titre en-haut à gauche
+#         margin=dict(l=40, r=40, t=40, b=30)
+#     )
+#     return fig
+#
+# # callback pour vérifier le nombre de variables sélectionnées et afficher la pop-up :
+# @app.callback(
+#     [Output('confirm-dialog', 'displayed'),
+#      Output('timedata-column-dropdown', 'value')],
+#     [Input('timedata-column-dropdown', 'value')]
+# )
+# def limit_selection_timedata(selected_columns):
+#     if len(selected_columns) > maxTimePlotVar:
+#         return True, selected_columns[:maxTimePlotVar]  # Afficher la pop-up et limiter la sélection à 2
+#     return False, selected_columns  # Ne pas afficher la pop-up
+# # Ajouter un callback pour mettre à jour la description
+# @app.callback(
+#     Output('timedata-column-description', 'children'),
+#     [Input('timedata-column-dropdown', 'value')]
+# )
+# def update_description(selected_columns):
+#     if selected_columns:
+#         desc_txt = '<br>'.join(["<b>" + selcol + "</b> : " + showcols_settings[selcol]['description']
+#                                 for selcol in selected_columns])
+#         return html.Div([dcc.Markdown(desc_txt,
+#                                       dangerously_allow_html=True)])
+#     return html.P('No column selected')
+
+
+
+
+
+# ################################ CALLBACKS - TAB TIMEDATA - GRAPHIQUES TEMPORELS DONNEES HORAIRES
+# @app.callback(
+#     Output('time-series-graph', 'figure'),
+#     [Input('timedata-column-dropdown', 'value')]
+# )
+# def update_graph(selected_columns):
+#     if not selected_columns:
+#         return go.Figure()
+#
+#     # Lire toutes les données de la base de données
+#     df = fetch_timedata()
+#     fig = go.Figure()
+#     for i, col in enumerate(selected_columns):
+#         # Ajout de chaque variable sur un axe y différent
+#         fig.add_trace(
+#             go.Scatter(
+#                 x=df[db_timecol],
+#                 y=df[col],
+#                 mode='lines',
+#                 name=col,
+#                 yaxis=f'y{i + 1}'
+#             )
+#         )
+#     update_layout_cols(selected_columns)
+#     fig.update_layout(
+#         xaxis=dict(domain=[0.25, 0.75], showline=True, linewidth=2, linecolor='black'),
+#         yaxis=yaxis_layout,
+#         yaxis2=yaxis2_layout,
+#         yaxis3=yaxis3_layout,
+#         yaxis4=yaxis4_layout,
+#         title_text="",  ## titre en-haut à gauche
+#         margin=dict(l=40, r=40, t=40, b=30)
+#     )
+#     return fig
+#
+# # callback pour vérifier le nombre de variables sélectionnées et afficher la pop-up :
+# @app.callback(
+#     [Output('confirm-dialog', 'displayed'),
+#      Output('timedata-column-dropdown', 'value')],
+#     [Input('timedata-column-dropdown', 'value')]
+# )
+# def limit_selection_timedata(selected_columns):
+#     if len(selected_columns) > maxTimePlotVar:
+#         return True, selected_columns[:maxTimePlotVar]  # Afficher la pop-up et limiter la sélection à 2
+#     return False, selected_columns  # Ne pas afficher la pop-up
+# # Ajouter un callback pour mettre à jour la description
+# @app.callback(
+#     Output('timedata-column-description', 'children'),
+#     [Input('timedata-column-dropdown', 'value')]
+# )
+# def update_description(selected_columns):
+#     if selected_columns:
+#         desc_txt = '<br>'.join(["<b>" + selcol + "</b> : " + showcols_settings[selcol]['description']
+#                                 for selcol in selected_columns])
+#         return html.Div([dcc.Markdown(desc_txt,
+#                                       dangerously_allow_html=True)])
+#     return html.P('No column selected')
+
+
+# @app.callback(
+#     Output('tabs-example', 'value'),
+#     [Input('btn-dashboard', 'n_clicks'),
+#      Input('btn-evotime', 'n_clicks'),
+#      Input('btn-stat', 'n_clicks'),
+#      Input('btn-analyseGraph', 'n_clicks'),
+#      Input('btn-appareils', 'n_clicks'),
+#      Input('btn-variotrack', 'n_clicks'),
+#      Input('btn-fonctions', 'n_clicks'),
+#      Input('btn-data', 'n_clicks')]
+# )
+# def navigate_to_tabs(*_):
+#     ctx = dash.callback_context
+#     print("navigate to tabs")
+#     if not ctx.triggered:
+#         return 'tab-accueil'
+#     else:
+#         button_id = ctx.triggered[0]['prop_id'].split('.')[0]
+#         print(button_id)
+#         if button_id == 'btn-dashboard':
+#             return 'tab-dashboard'
+#         elif button_id == 'btn-evotime':
+#             return 'tab-evotime'
+#         elif button_id == 'btn-stat':
+#             return 'tab-stat'
+#         elif button_id == 'btn-analyseGraph':
+#             return 'tab-analyseGraph'
+#         elif button_id == 'btn-appareils' or button_id == 'btn-variotrack':
+#             return 'tab-appareils'
+#         elif button_id == 'btn-fonctions':
+#             return 'tab-fonctions'
+#         elif button_id == 'btn-data':
+#             return 'tab-data'
+#     return 'tab-accueil'
+#
+#
+# @app.callback(
+#     Output('subtabs-appareils', 'value'),
+#     [Input('btn-variotrack', 'n_clicks')]
+# )
+# def navigate_to_subtab_variotrack(btn_variotrack):
+#     if btn_variotrack:
+#         return 'subtab-variotrack'
+#     return 'subtab-bsp'  # Valeur par défaut
+#
+#
+# # Callback pour gérer la navigation vers le sous-onglet "Export" quand on clique sur "Export" dans le texte
+# @app.callback(
+#     [Output('tabs-example', 'value'),
+#      Output('subtabs-data', 'value')],
+#     [Input('markdown-data', 'n_clicks')],
+#     [dash.dependencies.State('tabs-example', 'value')]
+# )
+# def navigate_to_export(n_clicks, current_tab):
+#     if n_clicks:
+#         return 'tab-data', 'subtab-exportDB'  # Naviguer vers l'onglet "Données" et le sous-onglet "Exporter des données"
+#     return current_tab, 'subtab-updateDB'
+#
+
+        # Onglet Accueil
+        # dcc.Tab(label='Accueil', value='tab-accueil',
+        #         className='mytab', selected_className='mytab-slctd',
+        #         children=[
+        #             html.Div([
+        #                 html.H3("Bienvenue sur le tableau de bord"),
+        #                 html.Div([
+        # dcc.Markdown("Le dashboard donne une vue d'ensemble du contenu de la base de données et des données disponibles. " +
+        #              "On peut cliquer sur chacune des variables pour voir la tendance dans le temps.",
+        #                                dangerously_allow_html=True),
+        # dbc.Button("Dashboard", id="btn-dashboard", color="primary", className="mr-2"),
+        # dbc.Button("Évolution temporelle", id="btn-evotime", color="primary", className="mr-2"),
+        # dbc.Button("Statistiques", id="btn-stat", color="primary", className="mr-2"),
+        # dbc.Button("Analyse (Graphes)", id="btn-analyseGraph", color="primary", className="mr-2"),
+        # dcc.Markdown("L'onglet 'Par appareil' permet d'afficher les différentes variables pour chacun des appareils. ",
+        #                                dangerously_allow_html=True),
+        # dbc.Button("Par appareil", id="btn-appareils", color="primary", className="mr-2"),
+        # dbc.Button("VarioTrack", id="btn-variotrack", color="primary", className="mr-2"),
+        # dbc.Button("Par fonction", id="btn-fonctions", color="primary", className="mr-2"),
+        # dcc.Markdown("L'onglet 'Données' contient plusieurs sous-onglets qui permettent de voir un aperçu des tables de la base de données, "+
+        #              "d'ajouter ou supprimer des données de la base de données ou d'exporter des données en fichiers Excel.",
+        #                                dangerously_allow_html=True),
+        #
+        # dbc.Button("Données", id="btn-data", color="primary", className="mr-2")
+        #                 ], className="d-flex justify-content-center")
+        #             ])
+        #         ]),
+
+
+# dcc.Tab(label='Accueil', value='tab-accueil',
+#         className='mytab', selected_className='mytab-slctd',
+#         children=[
+#             html.Div([
+#                 html.H1("Bienvenue sur le tableau de bord", className='title'),
+#                 html.Div([
+#                     html.P("Le dashboard donne une vue d'ensemble du contenu de la base de données et des données disponibles. " +
+#                            "On peut cliquer sur chacune des variables pour voir la tendance dans le temps.",
+#                            className='description'),
+#                     dbc.Button("Dashboard", id="btn-dashboard", color="primary", className="mr-2"),
+#                     dbc.Button("Évolution temporelle", id="btn-evotime", color="primary", className="mr-2"),
+#                     dbc.Button("Statistiques", id="btn-stat", color="primary", className="mr-2"),
+#                     dbc.Button("Analyse (Graphes)", id="btn-analyseGraph", color="primary", className="mr-2"),
+#                 ], className="section"),
+#                 html.Div([
+#                     html.P("L'onglet 'Par appareil' permet d'afficher les différentes variables pour chacun des appareils.",
+#                            className='description'),
+#                     dbc.Button("Par appareil", id="btn-appareils", color="primary", className="mr-2"),
+#                     dbc.Button("VarioTrack", id="btn-variotrack", color="primary", className="mr-2"),
+#                     dbc.Button("Par fonction", id="btn-fonctions", color="primary", className="mr-2"),
+#                 ], className="section"),
+#                 html.Div([
+#                     html.P("L'onglet 'Données' contient plusieurs sous-onglets qui permettent de voir un aperçu des tables de la base de données, " +
+#                            "d'ajouter ou supprimer des données de la base de données ou d'exporter des données en fichiers Excel.",
+#                            className='description'),
+#                     dbc.Button("Données", id="btn-data", color="primary", className="mr-2"),
+#                 ], className="section"),
+#             ], className="container")
+#         ]),
+#     dcc.Markdown("""
+#         **Par fonction** : Visualisez les données en fonction de leur utilisation dans le système.
+#     """),
+#     dbc.Button("Par fonction", id="landpage-btn-fonctions",
+#                style={'backgroundColor': '#2507cf', 'color': 'white'},
+#                className="my-2"),
+# ], width=4),

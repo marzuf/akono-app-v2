@@ -3,6 +3,7 @@ from datetime import timedelta
 import numpy as np
 import dash_daq as daq
 from data_processing import *
+from app_settings import *
 
 def get_var_desc(col, db):
     if db == dbTime_name:
@@ -860,3 +861,21 @@ def create_section(title, data):
             html.H5(title, style={'font-weight': 'bold'}),
             html.Div([html.Div(col, className='col') for col in columns], className='row')
         ])
+
+
+
+###### FONCTIONS POUR LA PAGE DE ACUEIL
+def get_navbtn(id, lab):
+    return dbc.Button([
+    html.I(className="fas fa-paper-plane"),
+    " " + lab
+    ],
+    id=id,
+    **navbtn_style)
+
+
+def get_nav_link(id, lab):
+    return html.A(lab, id=id, href="#",
+                  style={"color": "#2507cf", "cursor": "pointer"})
+
+

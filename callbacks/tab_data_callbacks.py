@@ -111,7 +111,15 @@ def register_callbacks(app):
                 get_db_dropdown(id='exportdata-db'),
                 html.Button('Exporter', id='exportdata-btn', n_clicks=0),
                 dcc.Download(id='dwd-exportdata-xlsx'),
-                html.Div(id='exportdata-info', style={'marginTop': '20px'})
+                html.Div(id='exportdata-info', style={'marginTop': '20px'}),
+                html.H4('Exporter la base de données (fichier .db)'),
+                html.Div([
+                    dbc.Button("Télécharger la base de données", id="download-button", color="primary",
+                               className="mr-2",
+                               href="https://huggingface.co/spaces/mzuer/akono-app/resolve/main/"+db_file,
+                               #ttps: // huggingface.co / spaces / mzuer / akono - app / resolve / main / data / akonolinga_database_v2.db
+                               download=db_file)
+                ], style={'textAlign': 'center', 'marginTop': '50px'})
                 ])
     ### exporter les données
     # Callback pour afficher le graphique en fonction de la sélection :

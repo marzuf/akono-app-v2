@@ -8,6 +8,11 @@ tabname2tablab[dbDayI_name] = "bilans journaliers I"
 freq_colors = {'Réseau': 'blue', 'Génératrice': 'green',
               'Absence de source': 'red', 'Incertain': 'grey'}
 
+navbtn_style = {
+    'style': {'backgroundColor': '#2507cf', 'color': 'white'},
+    'className': 'my-2'
+}
+# my-2 : Cette classe ajoute de l'espacement vertical (my = marge verticale) autour des boutons pour les séparer visuellement
 
 I_colors = {'I3081': 'green', 'I3083': 'red'}
 

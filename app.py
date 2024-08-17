@@ -60,11 +60,219 @@ all_maxvar_dialogs = [dcc.ConfirmDialog(id=x,message=popupmsg_maxvar)
 all_range_pickers = [get_range_picker(x) for x in all_range_pickers]
 
 app.layout = html.Div([
-    dcc.Tabs(id="tabs-example", value='tab-dashboard', children=[  # value ici définit l'onglet par défaut
+    dcc.Tabs(id="tabs-example", value='tab-accueil', children=[  # value ici définit l'onglet par défaut
+
+
+        dcc.Tab(label='Accueil', value='tab-accueil',
+                className='mytab', selected_className='mytab-slctd',
+                children=[
+                    html.Div([
+                        # html.I(className="fas fa-sun") , html.H3("~ Bienvenue ~",
+                        #         style={'textAlign': 'center', 'marginBottom': '20px'}),
+
+                        html.H3([
+                            html.I(className="fas fa-sun", style={"color": "#FFD700", "marginRight": "10px"}),
+                            # Soleil à gauche
+                            "Bienvenue",
+                            html.I(className="fas fa-sun", style={"color": "#FFD700", "marginLeft": "10px"})
+                            # Soleil à droite
+                        ], style={"textAlign": "center", "marginTop": "20px"}),
+
+
+                        html.H5("sur la plateforme de visualisation des données Akonolinga",
+                                style={'textAlign': 'center', 'marginBottom': '20px'}),
+                        html.Hr(),
+                        dbc.Container([
+                            dbc.Row([
+                                dbc.Col([
+                                    html.P([
+                                        html.B("Dashboard"),
+                                        " : vue d'ensemble des données disponibles ;  "+
+                                        "cliquer sur chacune des variables pour rapidement avoir un aperçu la tendance dans le temps.",
+                                        html.Ul([html.Li(["Pour les ",
+                                                          get_nav_link("landpage-dashb-minutes-link", "Données minutes"),
+                                                          ""]),
+                                                            html.Li(["Pour les ",
+                                                          get_nav_link("landpage-dashb-dayI-link", "Données journalières I"),
+                                                          ""])
+                                                 ]),
+                                    ]),
+                                    get_navbtn(lab="Dashboard", id='landpage-btn-dashboard')
+                                ], width=4),
+
+                                dbc.Col([
+                                    dcc.Markdown("""
+                                        **Évolution temporelle** : choisir une ou plusieurs (max. 4) variables parmi les données minutes ;
+                                        visualisation à choix (line, bar, box).
+                                    """),
+                                    get_navbtn(lab="Évolution temporelle", id='landpage-btn-evotime')
+                                ], width=4),
+
+                                dbc.Col([
+                                    dcc.Markdown("""
+                                        **Statistiques - A SUPPRIMER ?** : choisir la table de données, une variable de cette table et le type de visualisation ;
+                                        renvoie également les valeurs moyennes.
+                                    """),
+                                    get_navbtn(lab="Statistiques", id='landpage-btn-stat')
+
+                                ], width=4)
+                            ]),
+
+                            html.Hr(),  # Ligne de séparation
+
+                            dbc.Row([
+                                dbc.Col([
+                                    dcc.Markdown("""
+                                        **Analyse (Graphes) - A SUPPRIMER ???** : visualiser la répartition des fréquences XT_Fin_Hz_I3122 (L1, L2, L1+L2 à choix) (diagramme camembert) 
+                                        ainsi que la température moyenne de la batterie (barplot).
+                                    """),
+                                    dbc.Button("Analyse (Graphes)", id="landpage-btn-analyseGraph",
+                                               style={'backgroundColor': '#2507cf', 'color': 'white'},
+                                               className="my-2"),
+                                ], width=4),
+
+                                dbc.Col([
+                                    # dcc.Markdown("""
+                                    #     **Par appareil** : visualiser les principaux paramètre pour chacun des appareils.
+                                    # """),
+                                    # dbc.Button("Par appareil", id="landpage-btn-appareils",**navbtn_style)
+
+                                    html.P([
+                                        html.B("Par appareil"),
+                                        " : visualiser les principaux paramètre pour chacun des appareils."
+                                        "",
+                                        html.Ul([html.Li(["Pour ",
+                                                          get_nav_link("landpage-appareil-bsp-link",
+                                                                       "BSP"),
+                                                          """
+                                                          (ligne temporelle avec qt 0.1 et 0.9 pour BSP_Ubat_Vdc_I7030_1, BSP_Ibat_Adc_I7031_1, BSP_Tbat_C_I7033_1 avec sa moyenne journalière ;
+                                                          pour I7007_1 et I7008_1 : ligne temporelle avec mise en évidence des aires de différence, 
+                                                                    barplot avec mise en évidence du surplus de l'un par rapport à l'autre, 
+                                                                    ligne de delta I7008_1 - I7007_1, 
+                                                                    barplot de rendement 100*I7008_1/I7007_1, 
+                                                                    barplot nombre de cycles à 50% I7007_1/90)
+                                                          """]),
+                                                        html.Li(["Pour ",
+                                                          get_nav_link("landpage-appareil-variotrack-link",
+                                                                       "Variotrack"),
+                                                          """
+                                                          (ligne temporelle avec qt 0.1 et 0.9 pour VT_PsoM_kW_I11043_1 et VT_PsoM_kW_I11043_ALL,
+                                                          ligne temporelle avec qt 0.1 et 0.9 pour VT_IbaM_Adc_I11040_1,
+                                                          ligne temporelle avec qt 0.1 et 0.9 pour I11006_1 et I11007_1)
+                                                          """]),
+
+                                                 # html.Li(["Pour ",
+                                                 #          get_nav_link("landpage-appareil-xtender-link",
+                                                 #                       "Xtender"),
+                                                 #          """
+                                                 #          (lignes temporelles avec 0.1 et 0.9 qt pour XT_Ubat_MIN_Vdc_I3090_L1 et XT_Ubat_MIN_Vdc_I3090_L2,
+                                                 #        lignes temporelles avec 0.1 et 0.9 qt pour XT_Uin_Vac_I3113_L1 et XT_Uin_Vac_I3113_L2,
+                                                 #        lignes temporelles avec aires colorées pour XT_Pout_kVA_I3097_L1 et XT_Pout_kVA_I3097_L1,
+                                                 #        lignes temporelles avec aires colorées pour XT_Iin_Aac_I3116_L1 et XT_Iin_Aac_I3116_L2,
+                                                 #        XT_Fin_Hz_I3122_L1 et XT_Fin_Hz_I3122_L2 : barplots verticalement superposés  pour différencier la répartition des sources, stacked barplots répartition des sources par jour
+                                                 #        side-by-side barplot pour I3081_1 et I3081_2)
+                                                 #
+                                                 #          """])
+                                                 ]),
+                                    ]),
+                                    get_navbtn(lab="Par appareil", id='landpage-btn-appareils')
+
+                                ], width=4),
+                                dbc.Col([
+                                    html.P([
+                                        html.B("Par appareil (suite)"),
+                                        " : visualiser les principaux paramètre pour chacun des appareils."
+                                        "",
+                                        html.Ul([
+                                            # html.Li(["Pour ",
+                                            #               get_nav_link("landpage-appareil-bsp-link",
+                                            #                            "BSP"),
+                                            #               """
+                                            #               (ligne temporelle avec qt 0.1 et 0.9 pour BSP_Ubat_Vdc_I7030_1, BSP_Ibat_Adc_I7031_1, BSP_Tbat_C_I7033_1 avec sa moyenne journalière ;
+                                            #               pour I7007_1 et I7008_1 : ligne temporelle avec mise en évidence des aires de différence,
+                                            #                         barplot avec mise en évidence du surplus de l'un par rapport à l'autre,
+                                            #                         ligne de delta I7008_1 - I7007_1,
+                                            #                         barplot de rendement 100*I7008_1/I7007_1,
+                                            #                         barplot nombre de cycles à 50% I7007_1/90)
+                                            #               """]),
+                                            #             html.Li(["Pour ",
+                                            #               get_nav_link("landpage-appareil-variotrack-link",
+                                            #                            "Variotrack"),
+                                            #               """
+                                            #               (ligne temporelle avec qt 0.1 et 0.9 pour VT_PsoM_kW_I11043_1 et VT_PsoM_kW_I11043_ALL,
+                                            #               ligne temporelle avec qt 0.1 et 0.9 pour VT_IbaM_Adc_I11040_1,
+                                            #               ligne temporelle avec qt 0.1 et 0.9 pour I11006_1 et I11007_1)
+                                            #               """]),
+
+                                                 html.Li(["Pour ",
+                                                          get_nav_link("landpage-appareil-xtender-link",
+                                                                       "Xtender"),
+                                                          """
+                                                          (lignes temporelles avec 0.1 et 0.9 qt pour XT_Ubat_MIN_Vdc_I3090_L1 et XT_Ubat_MIN_Vdc_I3090_L2,
+                                                        lignes temporelles avec 0.1 et 0.9 qt pour XT_Uin_Vac_I3113_L1 et XT_Uin_Vac_I3113_L2, 
+                                                        lignes temporelles avec aires colorées pour XT_Pout_kVA_I3097_L1 et XT_Pout_kVA_I3097_L1, 
+                                                        lignes temporelles avec aires colorées pour XT_Iin_Aac_I3116_L1 et XT_Iin_Aac_I3116_L2,
+                                                        XT_Fin_Hz_I3122_L1 et XT_Fin_Hz_I3122_L2 : barplots verticalement superposés  pour différencier la répartition des sources, stacked barplots répartition des sources par jour
+                                                        side-by-side barplot pour I3081_1 et I3081_2)
+
+                                                          """])
+                                                 ]),
+                                    ]),
+                                    get_navbtn(lab="Par appareil", id='landpage-btn-appareils2')
+
+                                ], width=4)
+
+                            ]),
+
+                            html.Hr(),  # Ligne de séparation
+
+                            dbc.Row([
+                                dbc.Col([
+
+                                html.P([
+                                    html.B("Par fonction - TODO / IN PROGRESS"),
+                                    " : pour visualiser les données en fonction de leur utilisation dans le système ",
+                                    html.Ul([html.Li(["Le sous-onglet ",
+                                                      #        html.A("Export", id="export-link", href="#",
+                                                      # style={"color": "#2507cf", "cursor": "pointer"}),
+                                                      get_nav_link("landpage-fct-batterie-link", "Batterie"),
+                                                      """ pour voir les données relative au fonctionnement de la batterie
+                                                      (lignes temporelles avec quantiles pour XT_Ubat_Vdc_I3092_L1_1 et XT_Ubat_Vdc_I3092_L2_2 ;
+                                                       lignes temporelles avec quantiles pour I7007_1 et I7008_1
+                                                      """])
+                                             ]),
+                                ]),
+                                get_navbtn(lab="Par fonction", id='landpage-btn-fonctions')       ], width=4),
+
+
+                                dbc.Col([
+                                    html.P([
+                                        html.B("Données")," : Gérer, ajouter ou exporter des données de la base de données. ",
+                                        "Obtenez un aperçu des tables disponibles. ",
+                                         html.Ul([
+                                             html.Li(["Le sous-onglet pour ",
+                                                      get_nav_link("landpage-data-manage-link", "Gérer les données"),
+                                                      " permet d'ajouter (fichier(s) csv) ou supprimer des données de la base de données."]),
+                                             html.Li(["Le sous-onglet pour ",
+                                                           get_nav_link("landpage-data-export-link", "Exporter des données"),
+                                        " permet de télécharger les données pour une période sélectionnée (.xlsx) ou la base donnée complète (.db)."]),
+                                             html.Li(["Le sous-onglet ",
+                                                      get_nav_link("landpage-data-overview-link", "Aperçu"),
+                                                      " permet d'afficher une partie du contenu de la base de données."])
+                                                ], ),
+                                    ]),
+                    get_navbtn(lab="Données" ,id='landpage-btn-data')
+
+                                ], width=4)
+                            ])
+                        ], fluid=True)
+                    ], style={'padding': '40px', 'backgroundColor': '#f8f9fa'})
+                ]),
+
         dcc.Tab(label='Dashboard', value='tab-dashboard',
                 className='mytab', selected_className='mytab-slctd',
                 children=[
-                    dcc.Tabs(id="subtabs-dashboard", value='subtab-dayIdata', children=[
+                    dcc.Tabs(id="subtabs-dashboard", value='subtab-minutesdata', children=[
                         dcc.Tab(label='Données minutes', value='subtab-minutesdata',
                                 className='mysubtab', selected_className='mysubtab-slctd'),
                         dcc.Tab(label='Données journalières', value='subtab-dayIdata',
@@ -135,67 +343,84 @@ app.layout = html.Div([
 
 
 
+# Callback pour gérer la navigation vers les onglets et sous-onglets
+@app.callback(
+    [Output('tabs-example', 'value'),
+     Output('subtabs-appareils', 'value'),
+     Output('subtabs-data', 'value')],
+    [Input('landpage-btn-dashboard', 'n_clicks'),
+     Input('landpage-btn-evotime', 'n_clicks'),
+     Input('landpage-btn-stat', 'n_clicks'),
+     Input('landpage-btn-analyseGraph', 'n_clicks'),
+     Input('landpage-btn-appareils', 'n_clicks'),
+Input('landpage-btn-appareils2', 'n_clicks'),
+     Input('landpage-appareil-variotrack-link', 'n_clicks'),
+     Input('landpage-btn-fonctions', 'n_clicks'),
+     Input('landpage-btn-data', 'n_clicks'),
+     Input('landpage-data-export-link', 'n_clicks'),
+Input('landpage-data-overview-link', 'n_clicks'),
+Input('landpage-data-manage-link', 'n_clicks'),
+Input('landpage-dashb-minutes-link', 'n_clicks'),
+Input('landpage-dashb-dayI-link', 'n_clicks'),
+Input('landpage-appareil-bsp-link', 'n_clicks'),
+Input('landpage-appareil-xtender-link', 'n_clicks'),
+     ],
+    [State('tabs-example', 'value')]
+)
+def navigate_to_tabs_and_subtabs(*args):
+    current_tab = args[-1]
+    ctx = dash.callback_context
+
+    # Valeurs par défaut pour les onglets et sous-onglets
+    tab_value = current_tab or 'tab-accueil'
+    subtab_appareils_value = 'subtab-bsp'  # Valeur par défaut pour les sous-onglets d'appareils
+    subtab_data_value = 'subtab-updateDB'  # Valeur par défaut pour les sous-onglets de données
+
+    # Si un bouton est cliqué
+    if ctx.triggered:
+        button_id = ctx.triggered[0]['prop_id'].split('.')[0]
+
+        # Gestion de la navigation pour les onglets principaux
+        if button_id in ['landpage-btn-dashboard','landpage-dashb-minutes-link',
+                                            'landpage-dashb-dayI-link']:
+            tab_value = 'tab-dashboard'
+            if button_id == 'landpage-dashb-minutes-link':
+                subtab_data_value = 'subtab-minutesdata'
+            elif button_id == 'landpage-dashb-dayI-link':
+                subtab_data_value = 'subtab-dayIdata'
+
+        elif button_id == 'landpage-btn-evotime':
+            tab_value = 'tab-evotime'
+        elif button_id == 'landpage-btn-stat':
+            tab_value = 'tab-stat'
+        elif button_id == 'landpage-btn-analyseGraph':
+            tab_value = 'tab-analyseGraph'
+        elif button_id in ['landpage-btn-appareils','landpage-btn-appareils2', 'landpage-appareil-variotrack-link',
+                           "landpage-appareil-bsp-link", "landpage-appareil-xtender-link", ]:
+            tab_value = 'tab-appareils'
+            if button_id == 'landpage-appareil-variotrack-link':
+                subtab_appareils_value = 'subtab-variotrack'
+            elif button_id == 'landpage-appareil-xtender-link':
+                    subtab_appareils_value = 'subtab-xtender'
+            elif button_id == 'landpage-appareil-bsp-link':
+                    subtab_appareils_value = 'subtab-bsp'
 
 
-
-# ################################ CALLBACKS - TAB TIMEDATA - GRAPHIQUES TEMPORELS DONNEES HORAIRES
-# @app.callback(
-#     Output('time-series-graph', 'figure'),
-#     [Input('timedata-column-dropdown', 'value')]
-# )
-# def update_graph(selected_columns):
-#     if not selected_columns:
-#         return go.Figure()
-#
-#     # Lire toutes les données de la base de données
-#     df = fetch_timedata()
-#     fig = go.Figure()
-#     for i, col in enumerate(selected_columns):
-#         # Ajout de chaque variable sur un axe y différent
-#         fig.add_trace(
-#             go.Scatter(
-#                 x=df[db_timecol],
-#                 y=df[col],
-#                 mode='lines',
-#                 name=col,
-#                 yaxis=f'y{i + 1}'
-#             )
-#         )
-#     update_layout_cols(selected_columns)
-#     fig.update_layout(
-#         xaxis=dict(domain=[0.25, 0.75], showline=True, linewidth=2, linecolor='black'),
-#         yaxis=yaxis_layout,
-#         yaxis2=yaxis2_layout,
-#         yaxis3=yaxis3_layout,
-#         yaxis4=yaxis4_layout,
-#         title_text="",  ## titre en-haut à gauche
-#         margin=dict(l=40, r=40, t=40, b=30)
-#     )
-#     return fig
-#
-# # callback pour vérifier le nombre de variables sélectionnées et afficher la pop-up :
-# @app.callback(
-#     [Output('confirm-dialog', 'displayed'),
-#      Output('timedata-column-dropdown', 'value')],
-#     [Input('timedata-column-dropdown', 'value')]
-# )
-# def limit_selection_timedata(selected_columns):
-#     if len(selected_columns) > maxTimePlotVar:
-#         return True, selected_columns[:maxTimePlotVar]  # Afficher la pop-up et limiter la sélection à 2
-#     return False, selected_columns  # Ne pas afficher la pop-up
-# # Ajouter un callback pour mettre à jour la description
-# @app.callback(
-#     Output('timedata-column-description', 'children'),
-#     [Input('timedata-column-dropdown', 'value')]
-# )
-# def update_description(selected_columns):
-#     if selected_columns:
-#         desc_txt = '<br>'.join(["<b>" + selcol + "</b> : " + showcols_settings[selcol]['description']
-#                                 for selcol in selected_columns])
-#         return html.Div([dcc.Markdown(desc_txt,
-#                                       dangerously_allow_html=True)])
-#     return html.P('No column selected')
-
+        elif button_id == 'landpage-btn-fonctions':
+            tab_value = 'tab-fonctions'
+        elif button_id in ['landpage-btn-data',
+                           'landpage-data-export-link',
+                           'landpage-data-manage-link',
+                           'landpage-data-overview-link']:
+            tab_value = 'tab-data'
+            if button_id == 'landpage-export-link':
+                subtab_data_value = 'subtab-exportDB'
+            elif button_id == 'landpage-data-manage-link':
+                subtab_data_value = 'subtab-updateDB'
+            elif button_id == 'landpage-data-overview-link':
+                subtab_data_value = 'subtab-showDB'
+    # Retourner les valeurs des onglets et sous-onglets
+    return tab_value, subtab_appareils_value, subtab_data_value
 
 # Exécuter l'application
 if __name__ == '__main__':

@@ -1,0 +1,1836 @@
+***** START LG231124.CSV
+LG231124.CSV	while reading :
+../LOG_300524/LG231124.CSV - WARNING : missing 'time' data (available : 561/1440
+../LOG_300524/LG231124.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231124.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231124.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231124.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231124.CSV - SUCCESS reading 'dayI' data
+
+LG231124.CSV	insert in DB success
+***** START LG231125.CSV
+LG231125.CSV	while reading :
+../LOG_300524/LG231125.CSV - WARNING : missing 'time' data (available : 1379/1440
+../LOG_300524/LG231125.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231125.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231125.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231125.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231125.CSV - SUCCESS reading 'dayI' data
+
+LG231125.CSV	insert in DB success
+***** START LG231126.CSV
+LG231126.CSV	while reading :
+../LOG_300524/LG231126.CSV - WARNING : missing 'time' data (available : 127/1440
+../LOG_300524/LG231126.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231126.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231126.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231126.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231126.CSV - SUCCESS reading 'dayI' data
+
+LG231126.CSV	insert in DB success
+***** START LG231128.CSV
+LG231128.CSV	while reading :
+../LOG_300524/LG231128.CSV - WARNING : missing 'time' data (available : 550/1440
+../LOG_300524/LG231128.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231128.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231128.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231128.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231128.CSV - SUCCESS reading 'dayI' data
+
+LG231128.CSV	insert in DB success
+***** START LG231129.CSV
+LG231129.CSV	while reading :
+
+../LOG_300524/LG231129.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231129.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231129.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231129.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231129.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231129.CSV - SUCCESS reading 'dayI' data
+
+LG231129.CSV	insert in DB success
+***** START LG231130.CSV
+LG231130.CSV	while reading :
+
+../LOG_300524/LG231130.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231130.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231130.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231130.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231130.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231130.CSV - SUCCESS reading 'dayI' data
+
+LG231130.CSV	insert in DB success
+***** START LG231201.CSV
+LG231201.CSV	while reading :
+
+../LOG_300524/LG231201.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231201.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231201.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231201.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231201.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231201.CSV - SUCCESS reading 'dayI' data
+
+LG231201.CSV	insert in DB success
+***** START LG231202.CSV
+LG231202.CSV	while reading :
+
+../LOG_300524/LG231202.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231202.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231202.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231202.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231202.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231202.CSV - SUCCESS reading 'dayI' data
+
+LG231202.CSV	insert in DB success
+***** START LG231203.CSV
+LG231203.CSV	while reading :
+
+../LOG_300524/LG231203.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231203.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231203.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231203.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231203.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231203.CSV - SUCCESS reading 'dayI' data
+
+LG231203.CSV	insert in DB success
+***** START LG231204.CSV
+LG231204.CSV	while reading :
+../LOG_300524/LG231204.CSV - WARNING : missing 'time' data (available : 1434/1440
+../LOG_300524/LG231204.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231204.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231204.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231204.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231204.CSV - SUCCESS reading 'dayI' data
+
+LG231204.CSV	insert in DB success
+***** START LG231205.CSV
+LG231205.CSV	while reading :
+
+../LOG_300524/LG231205.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231205.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231205.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231205.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231205.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231205.CSV - SUCCESS reading 'dayI' data
+
+LG231205.CSV	insert in DB success
+***** START LG231206.CSV
+LG231206.CSV	while reading :
+
+../LOG_300524/LG231206.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231206.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231206.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231206.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231206.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231206.CSV - SUCCESS reading 'dayI' data
+
+LG231206.CSV	insert in DB success
+***** START LG231207.CSV
+LG231207.CSV	while reading :
+../LOG_300524/LG231207.CSV - WARNING : missing 'time' data (available : 1439/1440
+../LOG_300524/LG231207.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231207.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231207.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231207.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231207.CSV - SUCCESS reading 'dayI' data
+
+LG231207.CSV	insert in DB success
+***** START LG231208.CSV
+LG231208.CSV	while reading :
+
+../LOG_300524/LG231208.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231208.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231208.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231208.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231208.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231208.CSV - SUCCESS reading 'dayI' data
+
+LG231208.CSV	insert in DB success
+***** START LG231209.CSV
+LG231209.CSV	while reading :
+
+../LOG_300524/LG231209.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231209.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231209.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231209.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231209.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231209.CSV - SUCCESS reading 'dayI' data
+
+LG231209.CSV	insert in DB success
+***** START LG231210.CSV
+LG231210.CSV	while reading :
+
+../LOG_300524/LG231210.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231210.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231210.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231210.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231210.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231210.CSV - SUCCESS reading 'dayI' data
+
+LG231210.CSV	insert in DB success
+***** START LG231211.CSV
+LG231211.CSV	while reading :
+
+../LOG_300524/LG231211.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231211.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231211.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231211.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231211.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231211.CSV - SUCCESS reading 'dayI' data
+
+LG231211.CSV	insert in DB success
+***** START LG231212.CSV
+LG231212.CSV	while reading :
+
+../LOG_300524/LG231212.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231212.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231212.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231212.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231212.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231212.CSV - SUCCESS reading 'dayI' data
+
+LG231212.CSV	insert in DB success
+***** START LG231213.CSV
+LG231213.CSV	while reading :
+
+../LOG_300524/LG231213.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231213.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231213.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231213.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231213.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231213.CSV - SUCCESS reading 'dayI' data
+
+LG231213.CSV	insert in DB success
+***** START LG231214.CSV
+LG231214.CSV	while reading :
+
+../LOG_300524/LG231214.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231214.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231214.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231214.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231214.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231214.CSV - SUCCESS reading 'dayI' data
+
+LG231214.CSV	insert in DB success
+***** START LG231215.CSV
+LG231215.CSV	while reading :
+
+../LOG_300524/LG231215.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231215.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231215.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231215.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231215.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231215.CSV - SUCCESS reading 'dayI' data
+
+LG231215.CSV	insert in DB success
+***** START LG231216.CSV
+LG231216.CSV	while reading :
+
+../LOG_300524/LG231216.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231216.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231216.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231216.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231216.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231216.CSV - SUCCESS reading 'dayI' data
+
+LG231216.CSV	insert in DB success
+***** START LG231217.CSV
+LG231217.CSV	while reading :
+
+../LOG_300524/LG231217.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231217.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231217.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231217.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231217.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231217.CSV - SUCCESS reading 'dayI' data
+
+LG231217.CSV	insert in DB success
+***** START LG231218.CSV
+LG231218.CSV	while reading :
+
+../LOG_300524/LG231218.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231218.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231218.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231218.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231218.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231218.CSV - SUCCESS reading 'dayI' data
+
+LG231218.CSV	insert in DB success
+***** START LG231219.CSV
+LG231219.CSV	while reading :
+
+../LOG_300524/LG231219.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231219.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231219.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231219.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231219.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231219.CSV - SUCCESS reading 'dayI' data
+
+LG231219.CSV	insert in DB success
+***** START LG231220.CSV
+LG231220.CSV	while reading :
+
+../LOG_300524/LG231220.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231220.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231220.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231220.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231220.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231220.CSV - SUCCESS reading 'dayI' data
+
+LG231220.CSV	insert in DB success
+***** START LG231221.CSV
+LG231221.CSV	while reading :
+
+../LOG_300524/LG231221.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231221.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231221.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231221.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231221.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231221.CSV - SUCCESS reading 'dayI' data
+
+LG231221.CSV	insert in DB success
+***** START LG231222.CSV
+LG231222.CSV	while reading :
+
+../LOG_300524/LG231222.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231222.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231222.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231222.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231222.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231222.CSV - SUCCESS reading 'dayI' data
+
+LG231222.CSV	insert in DB success
+***** START LG231223.CSV
+LG231223.CSV	while reading :
+
+../LOG_300524/LG231223.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231223.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231223.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231223.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231223.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231223.CSV - SUCCESS reading 'dayI' data
+
+LG231223.CSV	insert in DB success
+***** START LG231224.CSV
+LG231224.CSV	while reading :
+
+../LOG_300524/LG231224.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231224.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231224.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231224.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231224.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231224.CSV - SUCCESS reading 'dayI' data
+
+LG231224.CSV	insert in DB success
+***** START LG231225.CSV
+LG231225.CSV	while reading :
+
+../LOG_300524/LG231225.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231225.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231225.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231225.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231225.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231225.CSV - SUCCESS reading 'dayI' data
+
+LG231225.CSV	insert in DB success
+***** START LG231226.CSV
+LG231226.CSV	while reading :
+
+../LOG_300524/LG231226.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231226.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231226.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231226.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231226.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231226.CSV - SUCCESS reading 'dayI' data
+
+LG231226.CSV	insert in DB success
+***** START LG231227.CSV
+LG231227.CSV	while reading :
+
+../LOG_300524/LG231227.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231227.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231227.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231227.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231227.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231227.CSV - SUCCESS reading 'dayI' data
+
+LG231227.CSV	insert in DB success
+***** START LG231228.CSV
+LG231228.CSV	while reading :
+
+../LOG_300524/LG231228.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231228.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231228.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231228.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231228.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231228.CSV - SUCCESS reading 'dayI' data
+
+LG231228.CSV	insert in DB success
+***** START LG231229.CSV
+LG231229.CSV	while reading :
+
+../LOG_300524/LG231229.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231229.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231229.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231229.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231229.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231229.CSV - SUCCESS reading 'dayI' data
+
+LG231229.CSV	insert in DB success
+***** START LG231230.CSV
+LG231230.CSV	while reading :
+
+../LOG_300524/LG231230.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231230.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231230.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231230.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231230.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231230.CSV - SUCCESS reading 'dayI' data
+
+LG231230.CSV	insert in DB success
+***** START LG231231.CSV
+LG231231.CSV	while reading :
+
+../LOG_300524/LG231231.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG231231.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG231231.CSV - SUCCESS reading 'time' data ../LOG_300524/LG231231.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG231231.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG231231.CSV - SUCCESS reading 'dayI' data
+
+LG231231.CSV	insert in DB success
+***** START LG240101.CSV
+LG240101.CSV	while reading :
+
+../LOG_300524/LG240101.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240101.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240101.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240101.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240101.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240101.CSV - SUCCESS reading 'dayI' data
+
+LG240101.CSV	insert in DB success
+***** START LG240102.CSV
+LG240102.CSV	while reading :
+
+../LOG_300524/LG240102.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240102.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240102.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240102.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240102.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240102.CSV - SUCCESS reading 'dayI' data
+
+LG240102.CSV	insert in DB success
+***** START LG240103.CSV
+LG240103.CSV	while reading :
+
+../LOG_300524/LG240103.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240103.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240103.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240103.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240103.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240103.CSV - SUCCESS reading 'dayI' data
+
+LG240103.CSV	insert in DB success
+***** START LG240104.CSV
+LG240104.CSV	while reading :
+
+../LOG_300524/LG240104.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240104.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240104.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240104.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240104.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240104.CSV - SUCCESS reading 'dayI' data
+
+LG240104.CSV	insert in DB success
+***** START LG240105.CSV
+LG240105.CSV	while reading :
+
+../LOG_300524/LG240105.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240105.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240105.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240105.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240105.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240105.CSV - SUCCESS reading 'dayI' data
+
+LG240105.CSV	insert in DB success
+***** START LG240106.CSV
+LG240106.CSV	while reading :
+
+../LOG_300524/LG240106.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240106.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240106.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240106.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240106.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240106.CSV - SUCCESS reading 'dayI' data
+
+LG240106.CSV	insert in DB success
+***** START LG240107.CSV
+LG240107.CSV	while reading :
+
+../LOG_300524/LG240107.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240107.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240107.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240107.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240107.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240107.CSV - SUCCESS reading 'dayI' data
+
+LG240107.CSV	insert in DB success
+***** START LG240108.CSV
+LG240108.CSV	while reading :
+
+../LOG_300524/LG240108.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240108.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240108.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240108.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240108.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240108.CSV - SUCCESS reading 'dayI' data
+
+LG240108.CSV	insert in DB success
+***** START LG240109.CSV
+LG240109.CSV	while reading :
+
+../LOG_300524/LG240109.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240109.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240109.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240109.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240109.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240109.CSV - SUCCESS reading 'dayI' data
+
+LG240109.CSV	insert in DB success
+***** START LG240110.CSV
+LG240110.CSV	while reading :
+
+../LOG_300524/LG240110.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240110.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240110.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240110.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240110.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240110.CSV - SUCCESS reading 'dayI' data
+
+LG240110.CSV	insert in DB success
+***** START LG240111.CSV
+LG240111.CSV	while reading :
+
+../LOG_300524/LG240111.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240111.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240111.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240111.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240111.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240111.CSV - SUCCESS reading 'dayI' data
+
+LG240111.CSV	insert in DB success
+***** START LG240112.CSV
+LG240112.CSV	while reading :
+
+../LOG_300524/LG240112.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240112.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240112.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240112.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240112.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240112.CSV - SUCCESS reading 'dayI' data
+
+LG240112.CSV	insert in DB success
+***** START LG240113.CSV
+LG240113.CSV	while reading :
+
+../LOG_300524/LG240113.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240113.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240113.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240113.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240113.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240113.CSV - SUCCESS reading 'dayI' data
+
+LG240113.CSV	insert in DB success
+***** START LG240114.CSV
+LG240114.CSV	while reading :
+
+../LOG_300524/LG240114.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240114.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240114.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240114.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240114.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240114.CSV - SUCCESS reading 'dayI' data
+
+LG240114.CSV	insert in DB success
+***** START LG240115.CSV
+LG240115.CSV	while reading :
+
+../LOG_300524/LG240115.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240115.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240115.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240115.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240115.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240115.CSV - SUCCESS reading 'dayI' data
+
+LG240115.CSV	insert in DB success
+***** START LG240116.CSV
+LG240116.CSV	while reading :
+
+../LOG_300524/LG240116.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240116.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240116.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240116.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240116.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240116.CSV - SUCCESS reading 'dayI' data
+
+LG240116.CSV	insert in DB success
+***** START LG240117.CSV
+LG240117.CSV	while reading :
+
+../LOG_300524/LG240117.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240117.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240117.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240117.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240117.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240117.CSV - SUCCESS reading 'dayI' data
+
+LG240117.CSV	insert in DB success
+***** START LG240118.CSV
+LG240118.CSV	while reading :
+
+../LOG_300524/LG240118.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240118.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240118.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240118.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240118.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240118.CSV - SUCCESS reading 'dayI' data
+
+LG240118.CSV	insert in DB success
+***** START LG240119.CSV
+LG240119.CSV	while reading :
+../LOG_300524/LG240119.CSV - WARNING : missing 'time' data (available : 1439/1440
+../LOG_300524/LG240119.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240119.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240119.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240119.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240119.CSV - SUCCESS reading 'dayI' data
+
+LG240119.CSV	insert in DB success
+***** START LG240120.CSV
+LG240120.CSV	while reading :
+
+../LOG_300524/LG240120.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240120.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240120.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240120.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240120.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240120.CSV - SUCCESS reading 'dayI' data
+
+LG240120.CSV	insert in DB success
+***** START LG240121.CSV
+LG240121.CSV	while reading :
+
+../LOG_300524/LG240121.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240121.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240121.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240121.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240121.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240121.CSV - SUCCESS reading 'dayI' data
+
+LG240121.CSV	insert in DB success
+***** START LG240122.CSV
+LG240122.CSV	while reading :
+
+../LOG_300524/LG240122.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240122.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240122.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240122.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240122.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240122.CSV - SUCCESS reading 'dayI' data
+
+LG240122.CSV	insert in DB success
+***** START LG240123.CSV
+LG240123.CSV	while reading :
+
+../LOG_300524/LG240123.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240123.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240123.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240123.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240123.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240123.CSV - SUCCESS reading 'dayI' data
+
+LG240123.CSV	insert in DB success
+***** START LG240124.CSV
+LG240124.CSV	while reading :
+
+../LOG_300524/LG240124.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240124.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240124.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240124.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240124.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240124.CSV - SUCCESS reading 'dayI' data
+
+LG240124.CSV	insert in DB success
+***** START LG240125.CSV
+LG240125.CSV	while reading :
+
+../LOG_300524/LG240125.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240125.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240125.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240125.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240125.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240125.CSV - SUCCESS reading 'dayI' data
+
+LG240125.CSV	insert in DB success
+***** START LG240126.CSV
+LG240126.CSV	while reading :
+
+../LOG_300524/LG240126.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240126.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240126.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240126.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240126.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240126.CSV - SUCCESS reading 'dayI' data
+
+LG240126.CSV	insert in DB success
+***** START LG240127.CSV
+LG240127.CSV	while reading :
+
+../LOG_300524/LG240127.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240127.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240127.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240127.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240127.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240127.CSV - SUCCESS reading 'dayI' data
+
+LG240127.CSV	insert in DB success
+***** START LG240128.CSV
+LG240128.CSV	while reading :
+
+../LOG_300524/LG240128.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240128.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240128.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240128.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240128.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240128.CSV - SUCCESS reading 'dayI' data
+
+LG240128.CSV	insert in DB success
+***** START LG240129.CSV
+LG240129.CSV	while reading :
+
+../LOG_300524/LG240129.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240129.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240129.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240129.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240129.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240129.CSV - SUCCESS reading 'dayI' data
+
+LG240129.CSV	insert in DB success
+***** START LG240130.CSV
+LG240130.CSV	while reading :
+
+../LOG_300524/LG240130.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240130.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240130.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240130.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240130.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240130.CSV - SUCCESS reading 'dayI' data
+
+LG240130.CSV	insert in DB success
+***** START LG240131.CSV
+LG240131.CSV	while reading :
+
+../LOG_300524/LG240131.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240131.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240131.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240131.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240131.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240131.CSV - SUCCESS reading 'dayI' data
+
+LG240131.CSV	insert in DB success
+***** START LG240201.CSV
+LG240201.CSV	while reading :
+
+../LOG_300524/LG240201.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240201.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240201.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240201.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240201.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240201.CSV - SUCCESS reading 'dayI' data
+
+LG240201.CSV	insert in DB success
+***** START LG240202.CSV
+LG240202.CSV	while reading :
+
+../LOG_300524/LG240202.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240202.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240202.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240202.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240202.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240202.CSV - SUCCESS reading 'dayI' data
+
+LG240202.CSV	insert in DB success
+***** START LG240203.CSV
+LG240203.CSV	while reading :
+
+../LOG_300524/LG240203.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240203.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240203.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240203.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240203.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240203.CSV - SUCCESS reading 'dayI' data
+
+LG240203.CSV	insert in DB success
+***** START LG240204.CSV
+LG240204.CSV	while reading :
+
+../LOG_300524/LG240204.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240204.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240204.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240204.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240204.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240204.CSV - SUCCESS reading 'dayI' data
+
+LG240204.CSV	insert in DB success
+***** START LG240205.CSV
+LG240205.CSV	while reading :
+
+../LOG_300524/LG240205.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240205.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240205.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240205.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240205.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240205.CSV - SUCCESS reading 'dayI' data
+
+LG240205.CSV	insert in DB success
+***** START LG240206.CSV
+LG240206.CSV	while reading :
+
+../LOG_300524/LG240206.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240206.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240206.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240206.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240206.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240206.CSV - SUCCESS reading 'dayI' data
+
+LG240206.CSV	insert in DB success
+***** START LG240207.CSV
+LG240207.CSV	while reading :
+
+../LOG_300524/LG240207.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240207.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240207.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240207.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240207.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240207.CSV - SUCCESS reading 'dayI' data
+
+LG240207.CSV	insert in DB success
+***** START LG240208.CSV
+LG240208.CSV	while reading :
+
+../LOG_300524/LG240208.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240208.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240208.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240208.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240208.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240208.CSV - SUCCESS reading 'dayI' data
+
+LG240208.CSV	insert in DB success
+***** START LG240209.CSV
+LG240209.CSV	while reading :
+
+../LOG_300524/LG240209.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240209.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240209.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240209.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240209.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240209.CSV - SUCCESS reading 'dayI' data
+
+LG240209.CSV	insert in DB success
+***** START LG240210.CSV
+LG240210.CSV	while reading :
+
+../LOG_300524/LG240210.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240210.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240210.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240210.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240210.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240210.CSV - SUCCESS reading 'dayI' data
+
+LG240210.CSV	insert in DB success
+***** START LG240211.CSV
+LG240211.CSV	while reading :
+
+../LOG_300524/LG240211.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240211.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240211.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240211.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240211.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240211.CSV - SUCCESS reading 'dayI' data
+
+LG240211.CSV	insert in DB success
+***** START LG240212.CSV
+LG240212.CSV	while reading :
+
+../LOG_300524/LG240212.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240212.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240212.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240212.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240212.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240212.CSV - SUCCESS reading 'dayI' data
+
+LG240212.CSV	insert in DB success
+***** START LG240213.CSV
+LG240213.CSV	while reading :
+
+../LOG_300524/LG240213.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240213.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240213.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240213.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240213.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240213.CSV - SUCCESS reading 'dayI' data
+
+LG240213.CSV	insert in DB success
+***** START LG240214.CSV
+LG240214.CSV	while reading :
+
+../LOG_300524/LG240214.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240214.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240214.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240214.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240214.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240214.CSV - SUCCESS reading 'dayI' data
+
+LG240214.CSV	insert in DB success
+***** START LG240215.CSV
+LG240215.CSV	while reading :
+
+../LOG_300524/LG240215.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240215.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240215.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240215.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240215.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240215.CSV - SUCCESS reading 'dayI' data
+
+LG240215.CSV	insert in DB success
+***** START LG240216.CSV
+LG240216.CSV	while reading :
+
+../LOG_300524/LG240216.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240216.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240216.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240216.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240216.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240216.CSV - SUCCESS reading 'dayI' data
+
+LG240216.CSV	insert in DB success
+***** START LG240217.CSV
+LG240217.CSV	while reading :
+
+../LOG_300524/LG240217.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240217.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240217.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240217.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240217.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240217.CSV - SUCCESS reading 'dayI' data
+
+LG240217.CSV	insert in DB success
+***** START LG240218.CSV
+LG240218.CSV	while reading :
+
+../LOG_300524/LG240218.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240218.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240218.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240218.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240218.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240218.CSV - SUCCESS reading 'dayI' data
+
+LG240218.CSV	insert in DB success
+***** START LG240219.CSV
+LG240219.CSV	while reading :
+
+../LOG_300524/LG240219.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240219.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240219.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240219.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240219.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240219.CSV - SUCCESS reading 'dayI' data
+
+LG240219.CSV	insert in DB success
+***** START LG240220.CSV
+LG240220.CSV	while reading :
+
+../LOG_300524/LG240220.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240220.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240220.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240220.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240220.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240220.CSV - SUCCESS reading 'dayI' data
+
+LG240220.CSV	insert in DB success
+***** START LG240221.CSV
+LG240221.CSV	while reading :
+
+../LOG_300524/LG240221.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240221.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240221.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240221.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240221.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240221.CSV - SUCCESS reading 'dayI' data
+
+LG240221.CSV	insert in DB success
+***** START LG240222.CSV
+LG240222.CSV	while reading :
+
+../LOG_300524/LG240222.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240222.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240222.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240222.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240222.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240222.CSV - SUCCESS reading 'dayI' data
+
+LG240222.CSV	insert in DB success
+***** START LG240223.CSV
+LG240223.CSV	while reading :
+
+../LOG_300524/LG240223.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240223.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240223.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240223.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240223.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240223.CSV - SUCCESS reading 'dayI' data
+
+LG240223.CSV	insert in DB success
+***** START LG240224.CSV
+LG240224.CSV	while reading :
+
+../LOG_300524/LG240224.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240224.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240224.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240224.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240224.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240224.CSV - SUCCESS reading 'dayI' data
+
+LG240224.CSV	insert in DB success
+***** START LG240225.CSV
+LG240225.CSV	while reading :
+
+../LOG_300524/LG240225.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240225.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240225.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240225.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240225.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240225.CSV - SUCCESS reading 'dayI' data
+
+LG240225.CSV	insert in DB success
+***** START LG240226.CSV
+LG240226.CSV	while reading :
+
+../LOG_300524/LG240226.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240226.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240226.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240226.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240226.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240226.CSV - SUCCESS reading 'dayI' data
+
+LG240226.CSV	insert in DB success
+***** START LG240227.CSV
+LG240227.CSV	while reading :
+
+../LOG_300524/LG240227.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240227.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240227.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240227.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240227.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240227.CSV - SUCCESS reading 'dayI' data
+
+LG240227.CSV	insert in DB success
+***** START LG240228.CSV
+LG240228.CSV	while reading :
+
+../LOG_300524/LG240228.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240228.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240228.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240228.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240228.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240228.CSV - SUCCESS reading 'dayI' data
+
+LG240228.CSV	insert in DB success
+***** START LG240229.CSV
+LG240229.CSV	while reading :
+
+../LOG_300524/LG240229.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240229.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240229.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240229.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240229.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240229.CSV - SUCCESS reading 'dayI' data
+
+LG240229.CSV	insert in DB success
+***** START LG240301.CSV
+LG240301.CSV	while reading :
+
+../LOG_300524/LG240301.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240301.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240301.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240301.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240301.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240301.CSV - SUCCESS reading 'dayI' data
+
+LG240301.CSV	insert in DB success
+***** START LG240302.CSV
+LG240302.CSV	while reading :
+../LOG_300524/LG240302.CSV - WARNING : missing 'time' data (available : 1439/1440
+../LOG_300524/LG240302.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240302.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240302.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240302.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240302.CSV - SUCCESS reading 'dayI' data
+
+LG240302.CSV	insert in DB success
+***** START LG240303.CSV
+LG240303.CSV	while reading :
+
+../LOG_300524/LG240303.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240303.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240303.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240303.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240303.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240303.CSV - SUCCESS reading 'dayI' data
+
+LG240303.CSV	insert in DB success
+***** START LG240304.CSV
+LG240304.CSV	while reading :
+
+../LOG_300524/LG240304.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240304.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240304.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240304.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240304.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240304.CSV - SUCCESS reading 'dayI' data
+
+LG240304.CSV	insert in DB success
+***** START LG240305.CSV
+LG240305.CSV	while reading :
+
+../LOG_300524/LG240305.CSV - WARNING : missing 'time' data columns (DEV_VT_locEr_I11076_1,VT_E_CMD_I11082_1,VT_UbaM_Vdc_I11039_1,VT_IbaM_Adc_I11040_1,VT_Aux_1_I11061_1,VT_Phase_I11038_1,VT_PsoM_kW_I11043_1,VT_PsoM_kW_I11043_ALL,VT_Tp1M_C_I11045_1,VT_UpvM_Vdc_I11041_1,VT_Aux_2_I11062_1,VT_Mode_I11016_1)
+
+../LOG_300524/LG240305.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240305.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240305.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240305.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240305.CSV - SUCCESS reading 'dayI' data
+
+LG240305.CSV	insert in DB success
+***** START LG240306.CSV
+LG240306.CSV	while reading :
+../LOG_300524/LG240306.CSV - WARNING : missing 'time' data (available : 415/1440
+../LOG_300524/LG240306.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240306.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240306.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240306.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240306.CSV - SUCCESS reading 'dayI' data
+
+LG240306.CSV	insert in DB success
+***** START LG240307.CSV
+LG240307.CSV	while reading :
+../LOG_300524/LG240307.CSV - WARNING : missing 'time' data (available : 1261/1440
+../LOG_300524/LG240307.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240307.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240307.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240307.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240307.CSV - SUCCESS reading 'dayI' data
+
+LG240307.CSV	insert in DB success
+***** START LG240308.CSV
+LG240308.CSV	while reading :
+../LOG_300524/LG240308.CSV - WARNING : missing 'time' data (available : 1388/1440
+../LOG_300524/LG240308.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240308.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240308.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240308.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240308.CSV - SUCCESS reading 'dayI' data
+
+LG240308.CSV	insert in DB success
+***** START LG240309.CSV
+LG240309.CSV	while reading :
+../LOG_300524/LG240309.CSV - WARNING : missing 'time' data (available : 1437/1440
+../LOG_300524/LG240309.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240309.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240309.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240309.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240309.CSV - SUCCESS reading 'dayI' data
+
+LG240309.CSV	insert in DB success
+***** START LG240310.CSV
+LG240310.CSV	while reading :
+
+../LOG_300524/LG240310.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240310.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240310.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240310.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240310.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240310.CSV - SUCCESS reading 'dayI' data
+
+LG240310.CSV	insert in DB success
+***** START LG240311.CSV
+LG240311.CSV	while reading :
+
+../LOG_300524/LG240311.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240311.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240311.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240311.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240311.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240311.CSV - SUCCESS reading 'dayI' data
+
+LG240311.CSV	insert in DB success
+***** START LG240312.CSV
+LG240312.CSV	while reading :
+
+../LOG_300524/LG240312.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240312.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240312.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240312.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240312.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240312.CSV - SUCCESS reading 'dayI' data
+
+LG240312.CSV	insert in DB success
+***** START LG240313.CSV
+LG240313.CSV	while reading :
+
+../LOG_300524/LG240313.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240313.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240313.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240313.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240313.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240313.CSV - SUCCESS reading 'dayI' data
+
+LG240313.CSV	insert in DB success
+***** START LG240314.CSV
+LG240314.CSV	while reading :
+
+../LOG_300524/LG240314.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240314.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240314.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240314.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240314.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240314.CSV - SUCCESS reading 'dayI' data
+
+LG240314.CSV	insert in DB success
+***** START LG240315.CSV
+LG240315.CSV	while reading :
+
+../LOG_300524/LG240315.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240315.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240315.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240315.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240315.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240315.CSV - SUCCESS reading 'dayI' data
+
+LG240315.CSV	insert in DB success
+***** START LG240316.CSV
+LG240316.CSV	while reading :
+
+../LOG_300524/LG240316.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240316.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240316.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240316.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240316.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240316.CSV - SUCCESS reading 'dayI' data
+
+LG240316.CSV	insert in DB success
+***** START LG240317.CSV
+LG240317.CSV	while reading :
+
+../LOG_300524/LG240317.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240317.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240317.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240317.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240317.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240317.CSV - SUCCESS reading 'dayI' data
+
+LG240317.CSV	insert in DB success
+***** START LG240318.CSV
+LG240318.CSV	while reading :
+
+../LOG_300524/LG240318.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240318.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240318.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240318.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240318.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240318.CSV - SUCCESS reading 'dayI' data
+
+LG240318.CSV	insert in DB success
+***** START LG240319.CSV
+LG240319.CSV	while reading :
+
+../LOG_300524/LG240319.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240319.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240319.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240319.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240319.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240319.CSV - SUCCESS reading 'dayI' data
+
+LG240319.CSV	insert in DB success
+***** START LG240320.CSV
+LG240320.CSV	while reading :
+
+../LOG_300524/LG240320.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240320.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240320.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240320.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240320.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240320.CSV - SUCCESS reading 'dayI' data
+
+LG240320.CSV	insert in DB success
+***** START LG240321.CSV
+LG240321.CSV	while reading :
+
+../LOG_300524/LG240321.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240321.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240321.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240321.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240321.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240321.CSV - SUCCESS reading 'dayI' data
+
+LG240321.CSV	insert in DB success
+***** START LG240322.CSV
+LG240322.CSV	while reading :
+
+../LOG_300524/LG240322.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240322.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240322.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240322.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240322.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240322.CSV - SUCCESS reading 'dayI' data
+
+LG240322.CSV	insert in DB success
+***** START LG240323.CSV
+LG240323.CSV	while reading :
+../LOG_300524/LG240323.CSV - WARNING : missing 'time' data (available : 1437/1440
+../LOG_300524/LG240323.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240323.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240323.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240323.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240323.CSV - SUCCESS reading 'dayI' data
+
+LG240323.CSV	insert in DB success
+***** START LG240324.CSV
+LG240324.CSV	while reading :
+
+../LOG_300524/LG240324.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240324.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240324.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240324.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240324.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240324.CSV - SUCCESS reading 'dayI' data
+
+LG240324.CSV	insert in DB success
+***** START LG240325.CSV
+LG240325.CSV	while reading :
+
+../LOG_300524/LG240325.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240325.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240325.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240325.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240325.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240325.CSV - SUCCESS reading 'dayI' data
+
+LG240325.CSV	insert in DB success
+***** START LG240326.CSV
+LG240326.CSV	while reading :
+
+../LOG_300524/LG240326.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240326.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240326.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240326.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240326.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240326.CSV - SUCCESS reading 'dayI' data
+
+LG240326.CSV	insert in DB success
+***** START LG240327.CSV
+LG240327.CSV	while reading :
+
+../LOG_300524/LG240327.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240327.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240327.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240327.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240327.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240327.CSV - SUCCESS reading 'dayI' data
+
+LG240327.CSV	insert in DB success
+***** START LG240328.CSV
+LG240328.CSV	while reading :
+
+../LOG_300524/LG240328.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240328.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240328.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240328.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240328.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240328.CSV - SUCCESS reading 'dayI' data
+
+LG240328.CSV	insert in DB success
+***** START LG240329.CSV
+LG240329.CSV	while reading :
+
+../LOG_300524/LG240329.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240329.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240329.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240329.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240329.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240329.CSV - SUCCESS reading 'dayI' data
+
+LG240329.CSV	insert in DB success
+***** START LG240330.CSV
+LG240330.CSV	while reading :
+
+../LOG_300524/LG240330.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240330.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240330.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240330.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240330.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240330.CSV - SUCCESS reading 'dayI' data
+
+LG240330.CSV	insert in DB success
+***** START LG240331.CSV
+LG240331.CSV	while reading :
+
+../LOG_300524/LG240331.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240331.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240331.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240331.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240331.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240331.CSV - SUCCESS reading 'dayI' data
+
+LG240331.CSV	insert in DB success
+***** START LG240401.CSV
+LG240401.CSV	while reading :
+
+../LOG_300524/LG240401.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240401.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240401.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240401.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240401.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240401.CSV - SUCCESS reading 'dayI' data
+
+LG240401.CSV	insert in DB success
+***** START LG240402.CSV
+LG240402.CSV	while reading :
+../LOG_300524/LG240402.CSV - WARNING : missing 'time' data (available : 1439/1440
+../LOG_300524/LG240402.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240402.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240402.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240402.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240402.CSV - SUCCESS reading 'dayI' data
+
+LG240402.CSV	insert in DB success
+***** START LG240403.CSV
+LG240403.CSV	while reading :
+
+../LOG_300524/LG240403.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240403.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240403.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240403.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240403.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240403.CSV - SUCCESS reading 'dayI' data
+
+LG240403.CSV	insert in DB success
+***** START LG240404.CSV
+LG240404.CSV	while reading :
+
+../LOG_300524/LG240404.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240404.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240404.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240404.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240404.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240404.CSV - SUCCESS reading 'dayI' data
+
+LG240404.CSV	insert in DB success
+***** START LG240405.CSV
+LG240405.CSV	while reading :
+
+../LOG_300524/LG240405.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240405.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240405.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240405.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240405.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240405.CSV - SUCCESS reading 'dayI' data
+
+LG240405.CSV	insert in DB success
+***** START LG240406.CSV
+LG240406.CSV	while reading :
+
+../LOG_300524/LG240406.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240406.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240406.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240406.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240406.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240406.CSV - SUCCESS reading 'dayI' data
+
+LG240406.CSV	insert in DB success
+***** START LG240407.CSV
+LG240407.CSV	while reading :
+
+../LOG_300524/LG240407.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240407.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240407.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240407.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240407.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240407.CSV - SUCCESS reading 'dayI' data
+
+LG240407.CSV	insert in DB success
+***** START LG240408.CSV
+LG240408.CSV	while reading :
+
+../LOG_300524/LG240408.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240408.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240408.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240408.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240408.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240408.CSV - SUCCESS reading 'dayI' data
+
+LG240408.CSV	insert in DB success
+***** START LG240409.CSV
+LG240409.CSV	while reading :
+
+../LOG_300524/LG240409.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240409.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240409.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240409.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240409.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240409.CSV - SUCCESS reading 'dayI' data
+
+LG240409.CSV	insert in DB success
+***** START LG240410.CSV
+LG240410.CSV	while reading :
+
+../LOG_300524/LG240410.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240410.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240410.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240410.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240410.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240410.CSV - SUCCESS reading 'dayI' data
+
+LG240410.CSV	insert in DB success
+***** START LG240411.CSV
+LG240411.CSV	while reading :
+
+../LOG_300524/LG240411.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240411.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240411.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240411.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240411.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240411.CSV - SUCCESS reading 'dayI' data
+
+LG240411.CSV	insert in DB success
+***** START LG240412.CSV
+LG240412.CSV	while reading :
+
+../LOG_300524/LG240412.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240412.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240412.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240412.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240412.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240412.CSV - SUCCESS reading 'dayI' data
+
+LG240412.CSV	insert in DB success
+***** START LG240413.CSV
+LG240413.CSV	while reading :
+
+../LOG_300524/LG240413.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240413.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240413.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240413.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240413.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240413.CSV - SUCCESS reading 'dayI' data
+
+LG240413.CSV	insert in DB success
+***** START LG240414.CSV
+LG240414.CSV	while reading :
+
+../LOG_300524/LG240414.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240414.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240414.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240414.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240414.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240414.CSV - SUCCESS reading 'dayI' data
+
+LG240414.CSV	insert in DB success
+***** START LG240415.CSV
+LG240415.CSV	while reading :
+
+../LOG_300524/LG240415.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240415.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240415.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240415.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240415.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240415.CSV - SUCCESS reading 'dayI' data
+
+LG240415.CSV	insert in DB success
+***** START LG240416.CSV
+LG240416.CSV	while reading :
+
+../LOG_300524/LG240416.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240416.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240416.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240416.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240416.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240416.CSV - SUCCESS reading 'dayI' data
+
+LG240416.CSV	insert in DB success
+***** START LG240417.CSV
+LG240417.CSV	while reading :
+
+../LOG_300524/LG240417.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240417.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240417.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240417.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240417.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240417.CSV - SUCCESS reading 'dayI' data
+
+LG240417.CSV	insert in DB success
+***** START LG240418.CSV
+LG240418.CSV	while reading :
+
+../LOG_300524/LG240418.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240418.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240418.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240418.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240418.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240418.CSV - SUCCESS reading 'dayI' data
+
+LG240418.CSV	insert in DB success
+***** START LG240419.CSV
+LG240419.CSV	while reading :
+
+../LOG_300524/LG240419.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240419.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240419.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240419.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240419.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240419.CSV - SUCCESS reading 'dayI' data
+
+LG240419.CSV	insert in DB success
+***** START LG240420.CSV
+LG240420.CSV	while reading :
+
+../LOG_300524/LG240420.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240420.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240420.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240420.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240420.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240420.CSV - SUCCESS reading 'dayI' data
+
+LG240420.CSV	insert in DB success
+***** START LG240421.CSV
+LG240421.CSV	while reading :
+
+../LOG_300524/LG240421.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240421.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240421.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240421.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240421.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240421.CSV - SUCCESS reading 'dayI' data
+
+LG240421.CSV	insert in DB success
+***** START LG240422.CSV
+LG240422.CSV	while reading :
+
+../LOG_300524/LG240422.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240422.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240422.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240422.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240422.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240422.CSV - SUCCESS reading 'dayI' data
+
+LG240422.CSV	insert in DB success
+***** START LG240423.CSV
+LG240423.CSV	while reading :
+
+../LOG_300524/LG240423.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240423.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240423.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240423.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240423.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240423.CSV - SUCCESS reading 'dayI' data
+
+LG240423.CSV	insert in DB success
+***** START LG240424.CSV
+LG240424.CSV	while reading :
+
+../LOG_300524/LG240424.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240424.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240424.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240424.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240424.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240424.CSV - SUCCESS reading 'dayI' data
+
+LG240424.CSV	insert in DB success
+***** START LG240425.CSV
+LG240425.CSV	while reading :
+
+../LOG_300524/LG240425.CSV - WARNING : missing 'time' data columns (DEV_BSP_locE_I7059_1)
+
+../LOG_300524/LG240425.CSV - WARNING : missing 'dayI' data columns (I7067_1,I7067_2)
+
+../LOG_300524/LG240425.CSV - SUCCESS reading 'time' data ../LOG_300524/LG240425.CSV - SUCCESS reading 'dayP' data 
+../LOG_300524/LG240425.CSV - SUCCESS found all 'dayP' data columns
+../LOG_300524/LG240425.CSV - SUCCESS reading 'dayI' data
+
+LG240425.CSV	insert in DB success
